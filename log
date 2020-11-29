@@ -1,0 +1,7 @@
+甲骨文
+lih_neu@163.com
+y6W4tLbHiAs64Wf
+
+安装搜狗 dpkg -i sougou...... .deb
+依赖关系错误
+sudo apt-get -f install
